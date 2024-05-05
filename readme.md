@@ -1,5 +1,5 @@
 
-<div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
+<div background="black" color="white">
 <!-- Heading -->
 <h1 align="center"><img src="wave.gif" width="30px"> Hi there! I'm Manjinder Singh</h1>
 
