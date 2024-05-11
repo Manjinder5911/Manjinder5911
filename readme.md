@@ -5,7 +5,7 @@
 <!-- About Section -->
 <h3 align="center">✨ Software Developer | Computer Science Graduate ✨</h3>
 <hr>
-    👋 I'm  a passionate web developer with a knack for crafting elegant and efficient solutions. With a solid foundation in computer science and hands-on experience in various technologies like C#, Python, and JavaScript, I thrive on turning ideas into reality through code. Let's connect and collaborate on exciting projects together!
+    👋 I'm  a passionate Software developer with a knack for crafting elegant and efficient solutions. With a solid foundation in computer science and hands-on experience in various technologies like C#, Python, and JavaScript, I thrive on turning ideas into reality through code. Let's connect and collaborate on exciting projects together!
 
 <img align="right" alt="GIF" src="ReadmeImg.png" width="300" height="300" />
 
